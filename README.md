@@ -1,5 +1,4 @@
 # HR--attrition-dashboard-powerbi
-# HR Attrition Dashboard | Power BI Project
 
 📌 Project Overview
 This project is an HR Attrition Analysis Dashboard created using Power BI.  
